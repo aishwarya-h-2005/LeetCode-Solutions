@@ -36,4 +36,8 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
