@@ -15,6 +15,16 @@ class Solution {
                 break;
             }
         }
-        return i==0?"":str1.substring(0,i);
+        
+
+        if(i==0)
+        {
+            return "";
+        }
+        else
+        {
+            return str1.substring(0,i);
+        }
+        
     }
 }
