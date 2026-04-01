@@ -15,6 +15,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -41,9 +42,14 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
