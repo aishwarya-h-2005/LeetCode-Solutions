@@ -9,9 +9,7 @@ class Solution {
         {
             result.append(roman[i]);
             num=num-integer[i];
-
-        }
-        
+        }  
         return result.toString();
     }
 }
