@@ -37,6 +37,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -56,6 +57,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
@@ -70,6 +72,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Greedy
