@@ -17,6 +17,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 | [0134-gas-station](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
@@ -95,4 +96,8 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
