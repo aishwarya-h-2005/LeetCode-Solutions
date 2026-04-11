@@ -33,6 +33,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 | [0151-reverse-words-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 | [0045-jump-game-ii](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 | [0058-length-of-last-word](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
