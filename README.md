@@ -47,6 +47,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 | [0169-majority-element](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 | [0058-length-of-last-word](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
