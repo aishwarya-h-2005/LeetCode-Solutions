@@ -17,7 +17,9 @@ class Solution {
             map.put(original,replace);
             }
             else
+            {
             return false;
+            }
             }
             else
             {
