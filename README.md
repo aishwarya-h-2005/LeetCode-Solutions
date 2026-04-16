@@ -6,6 +6,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0027-remove-element) |
@@ -44,6 +45,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0202-happy-number) |
