@@ -17,6 +17,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -32,6 +33,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 | [0088-merge-sorted-array](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -122,4 +124,8 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
