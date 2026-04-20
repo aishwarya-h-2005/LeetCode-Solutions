@@ -79,6 +79,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 | ------- |
 | [0012-integer-to-roman](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -134,4 +135,8 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
