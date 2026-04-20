@@ -7,6 +7,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0027-remove-element) |
@@ -27,6 +28,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -107,6 +109,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0134-gas-station) |
