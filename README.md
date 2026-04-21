@@ -84,6 +84,7 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 | [0020-valid-parentheses](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -142,4 +143,5 @@ A dedicated repository for mastering Data Structures, Algorithms, and Java. This
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/aishwarya-h-2005/LeetCode-Solutions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
